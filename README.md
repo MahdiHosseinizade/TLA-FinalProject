@@ -1,1 +1,1 @@
-# TLA-FinalProject
+# TLA(Theory of machine and language)-FinalProject
